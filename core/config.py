@@ -26,7 +26,7 @@ class ConfigManager:
         # activity
         "twitch_url": "https://www.twitch.tv/discordmodmail/",
         # bot settings
-        "main_category_id": None,
+        "main_category_id": "714540650691035297",
         "fallback_category_id": None,
         "prefix": "?",
         "mention": "@here",
@@ -40,7 +40,7 @@ class ConfigManager:
         "reply_without_command": False,
         "anon_reply_without_command": False,
         # logging
-        "log_channel_id": None,
+        "log_channel_id": "663805827286695946",
         # threads
         "sent_emoji": "✅",
         "blocked_emoji": "🚫",
